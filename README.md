@@ -4,7 +4,8 @@
 ## Description
 It collects 799 Japanese locals and is recorded in quiet indoor places, streets, restaurant. The recording includes 210,000 commonly used written and spoken Japanese sentences. The error rate of text transfer sentence is less than 5%. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://bit.ly/3dKom0G
+For more details, please refer to the link: https://www.nexdata.ai/datasets/58?source=Github
+
 
 ## Format
 16kHz 16bit, uncompressed wav, mono channel
